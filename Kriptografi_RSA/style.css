@@ -1,0 +1,114 @@
+body {
+    background: #F2F2F2;
+    font-family: sans-serif;
+}
+
+.main {
+    width: 335px;
+    background: #2F495A;
+    margin: 100px auto;
+    padding: 10px 20px 50px 20px;
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px 0px #D1D1D1;
+}
+
+.teks {
+    width: 300px;
+    margin: 5px;
+    border: none;
+    font-size: 16pt;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.teks2 {
+    width: 300px;
+    margin: 5px;
+    border: none;
+    font-size: 16pt;
+    border-radius: 5px;
+    padding: 10px;
+    color: red;
+}
+
+.label {
+    margin-left: 5px;
+    color: #eee;
+    font-weight: bold;
+}
+
+.bil,
+.bil2 {
+    width: 133px;
+    margin: 5px;
+    border: none;
+    font-size: 16pt;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.tombol {
+    width: 320px;
+    background: #eb2b44;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px;
+    color: #eee;
+    font-size: 15pt;
+    border-bottom: 4px solid #a7004e;
+}
+
+.tombol_dek {
+    width: 320px;
+    background: green;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px;
+    color: #eee;
+    font-size: 15pt;
+    border-bottom: 4px solid #004d0d;
+}
+
+.tombol_enk {
+    width: 320px;
+    background: red;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px;
+    color: #eee;
+    font-size: 15pt;
+    border-bottom: 4px solid #a80000;
+}
+
+.tombol2 {
+    width: 153px;
+    background: red;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px;
+    color: #eee;
+    font-size: 15pt;
+    border-bottom: 4px solid #a80000;
+}
+
+.tombol3 {
+    width: 153px;
+    background: green;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px;
+    color: #eee;
+    font-size: 15pt;
+    border-bottom: 4px solid #004d0d;
+}
+
+.judul {
+    text-align: center;
+    color: #eee;
+    font-weight: bold;
+}
